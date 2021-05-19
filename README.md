@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there I'm Nikhil <img src="images/Hi.gif" width="30px"> </h1>
 
-<h3 align="center">A Full-stack developer, open-source contributor and Engineering student with a strong love for coding.</h3>
+<h3 align="center">A Full-stack developer, open-source contributor, engineer and passionate coder.</h3>
 
 <br/>
 
