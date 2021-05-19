@@ -179,8 +179,11 @@
 
 <br/>
 
-
-<img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhilsourav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-<img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhilsourav&layout=compact&langs_count=8&theme=algolia"/>
-
+<p align="center">
+        <a>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhilsourav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+        </a>
+        <a>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhilsourav&layout=compact&langs_count=8&theme=algolia" />
+        </a>
+</p
