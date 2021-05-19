@@ -1,14 +1,12 @@
-<h1 style="text-align:center"> Hi there I'm Nikhil <img src="images/Hi.gif" width="30px"> </h1>
+<h1 align="center"> Hi there I'm Nikhil <img src="images/Hi.gif" width="30px"> </h1>
 
-<h3 style="text-align:center;">A Full-stack developer, open-source contributor and Engineering student with a strong love for coding.</h3>
+<h3 align="center">A Full-stack developer, open-source contributor and Engineering student with a strong love for coding.</h3>
 
-<div style="diplay:flex;position:relative">
-        <img src="https://img.icons8.com/doodle/48/000000/boy.png" width="28" height="28"/>
-        &nbsp;
-        <h2 style="display:inline;position:absolute;top:1.1px"> About me: </h2>
-</div>
+<br/>
 
-<hr/>
+<h2> About me: </h2>
+
+<br/>
 
 - Working on weebook [<img title="check it out 😀" src="images/weebook.gif" width="15px" height="auto">](https://weebook.netlify.app/)
 - Currently learning DSA [<img title="I do leetcode & gfg 😅" src="images/geek.gif" width="25px" height="auto">](https://auth.geeksforgeeks.org/user/fifu/practice/)
@@ -20,21 +18,16 @@
 
 <br/>
 
-<div style="diplay:flex;position:relative">
-        <img src="https://img.icons8.com/dusk/48/000000/code.png" width="23" height="23"/>
-        &nbsp;
-        <h2 style="display:inline;position:absolute;bottom:-2.2px">Languages and Tools:</h2>
-</div>
+<h2>Languages and Tools:</h2>
 
-<hr/>
+<br/>
 
-<img style="margin-top:45px;margin-bottom:40px" align="right" src="images/fifu.gif" width="450" height="auto">
+<img align="right" src="images/fifu.gif" width="450" height="auto">
 
 <ul>
-        <br/>
-        <span style="position:absolute;left:75px;margin-top:7px;">
+        <!--<span style="position:absolute;left:75px;margin-top:7px;">
                ♦
-        </span>
+        </span> -->
         <a href="https://www.cprogramming.com/" target="_blank"> <img title="c language"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c language"
                 width="40" height="40" />
@@ -50,9 +43,9 @@
                 alt="python" width="40" height="40" />
         </a>
         <br/>
-        <span style="position:absolute;left:75px;margin-top:7px;">
+        <!--<span style="position:absolute;left:75px;margin-top:7px;">
                ♦
-        </span>
+        </span> -->
         <a href="https://www.w3schools.com/html/" target="_blank"> <img title="html"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
                 alt="html5" width="40" height="40" />
@@ -68,9 +61,9 @@
                 alt="javascript" width="40" height="40" />
         </a>
         <br/>
-        <span style="position:absolute;left:75px;margin-top:7px;">
+        <!--<span style="position:absolute;left:75px;margin-top:7px;">
                ♦
-        </span>
+        </span> -->
         <a href="https://www.mongodb.com/" target="_blank"> <img title="mongoDb"
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
                 alt="mongodb" width="40" height="40" />
@@ -91,9 +84,9 @@
                 alt="nodejs" width="40" height="40" />
         </a>
         <br/>
-        <span style="position:absolute;left:75px;margin-top:7px;">
+        <!--<span style="position:absolute;left:75px;margin-top:7px;">
                ♦
-        </span>
+        </span> -->
         <a href="https://git-scm.com/" target="_blank"> <img title="git"
                 src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
         </a>
@@ -110,9 +103,9 @@
                 width="40" height="40" />
         </a>
         <br/>
-        <span style="position:absolute;left:75px;margin-top:7px;">
+        <!--<span style="position:absolute;left:75px;margin-top:7px;">
                ♦
-        </span>
+        </span> -->
         <a href="https://code.visualstudio.com/" target="_blank"> <img title="vscode"
                 src="https://logo.letskhabar.com/img/?tool=vs-code" alt="vsc"
                 width="40" height="40" />
@@ -127,9 +120,9 @@
                 height="40" />
         </a>
         <br/>
-        <span style="position:absolute;left:75px;margin-top:7px;">
+        <!--<span style="position:absolute;left:75px;margin-top:7px;">
                ♦
-        </span>
+        </span> -->
         <a href="https://www.photoshop.com/en" target="_blank"> <img title="photoshop"
                 src="https://img.icons8.com/color/50/000000/adobe-photoshop.png"
                 width="40" height="40" />
@@ -148,19 +141,15 @@
 
 <br/>
 
-<div style="diplay:flex;position:relative">
-        <img src="https://img.icons8.com/dusk/64/000000/new-contact.png" width="25" height="25"/>
-        &nbsp;
-        <h2 style="display:inline;position:absolute;bottom:-2.2px">Contact:</h2>
-</div>
+<h2>Contact:</h2>
 
-<hr/>
+<br/>
  
 <ul>
         <br/>
-        <span style="position:absolute;left:75px;margin-top:3px;">
+        <!--<span style="position:absolute;left:75px;margin-top:3px;">
                ▖
-        </span>
+        </span> -->
         <a href="mailto:nikhil.rj900@gmail.com" target="_blank"> <img title="email: nikhil.rj900@gmail.com"
                 src="https://img.icons8.com/dusk/64/000000/gmail.png" alt="email"
                 width="40" height="40"/> 
@@ -183,26 +172,15 @@
 </ul>
 
 <br/>
-<div style="diplay:flex;position:relative">
-        <img src="https://img.icons8.com/color/48/000000/statistics.png" width="28" height="28" />
-        &nbsp;
-        <h2 style="display:inline;position:absolute;bottom:-1px">Github stats:</h2>
-</div>
 
-<hr/>
+<h2>Github stats:</h2>
 
 <br/>
 
-<div style="display:flex;justify-content:space-around;flex-wrap:wrap">
-<p>
-        <a href="https://github.com/nikhilsourav">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhilsourav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        </a>
-</p>
+<br/>
 
-<p>
-        <a>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhilsourav&layout=compact&langs_count=8&theme=algolia"/>
-        </a>
-</p>
-</div>
+
+<img align="left" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nikhilsourav&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
+<img align="right" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nikhilsourav&layout=compact&langs_count=8&theme=algolia"/>
+
