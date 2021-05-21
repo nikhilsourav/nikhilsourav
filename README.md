@@ -162,7 +162,7 @@
         &nbsp;&nbsp;
         <a href="https://discord.com/users/fifu#4160" target="_blank"> <img title="discord: fifu#4160" style="margin-bottom:3.5px"
                 src="https://img.icons8.com/ultraviolet/40/000000/discord-logo.png" alt="discord"
-                width="35" height="35"/> 
+                width="40" height="40"/> 
         </a>
         &nbsp;&nbsp;
         <a href="https://www.reddit.com/user/nikhil_sourav" target="_blank"><img title="reddit: nikhil_sourav"
